@@ -1,6 +1,7 @@
 ## Dorks for Everything
 
 ### Bug Bounty Self Hosted Programs
+```
 inurl /bug bounty
 inurl : / security
 inurl:security.txt
@@ -76,3 +77,4 @@ inurl:/security.txt "mailto*" -github.com  -wikipedia.org -portswigger.net -mage
 /trust/report-a-vulnerability
 site:twitter.com bug bounty swag
 site:*.edu intext:security report vulnerability
+```
