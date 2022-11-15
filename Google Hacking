@@ -1,0 +1,13 @@
+### Google Hacking
+intext: "@ copyright youtarget 2022"
+
+site:target.com | intext:login | intext:username | intext:password
+
+intext:"index of /.git" "parent directory"
+
+filetype:bak
+
+site:.s3.amazonaws.com "Company"
+
+intitle:"Index of /" + ".htaccess"
+
